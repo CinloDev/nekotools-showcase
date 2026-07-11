@@ -115,6 +115,7 @@ Project documentation can be found inside the **docs** directory.
 * 🎯 [Vision](./docs/VISION.md)
 * 🧠 [Philosophy](./docs/PHILOSOPHY.md)
 * 🏗️ [Architecture](./docs/ARCHITECTURE.md)
+* ✨ [Features](./docs/FEATURES.md)
 * 🎨 [Design System](./docs/DESIGN_SYSTEM.md)
 * 🚀 [Roadmap](./docs/ROADMAP.md)
 * 🔍 [SEO](./docs/SEO.md)
