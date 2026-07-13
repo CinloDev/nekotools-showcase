@@ -46,7 +46,7 @@ Whenever feasible, files never leave your computer. Everything runs directly ins
 | Tool                             | Status | Guide |
 | -------------------------------- | :----: | :---: |
 | [🖼️ WebP Converter](./docs/tools/WebPConverter.md)               |    ✅   | [📖 Guía](./docs/tools/WebPConverter.md) |
-| 📏 Image Resizer                 |    ✅   | - |
+| [📏 Image Resizer](./docs/tools/ImageResizer.md)                   |    ✅   | [📖 Guía](./docs/tools/ImageResizer.md) |
 | 🎨 Palette Extractor             |    ✅   | - |
 | 🔗 Image to Base64               |    ✅   | - |
 | 📐 SVG to React                  |    ✅   | - |
