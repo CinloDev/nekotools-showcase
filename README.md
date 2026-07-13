@@ -47,9 +47,9 @@ Whenever feasible, files never leave your computer. Everything runs directly ins
 | -------------------------------- | :----: | :---: |
 | [🖼️ WebP Converter](./docs/tools/WebPConverter.md)               |    ✅   | [📖 Guía](./docs/tools/WebPConverter.md) |
 | [📏 Image Resizer](./docs/tools/ImageResizer.md)                   |    ✅   | [📖 Guía](./docs/tools/ImageResizer.md) |
-| 🎨 Palette Extractor             |    ✅   | - |
+| [🎨 Palette Extractor](./docs/tools/PaletteExtractor.md)           |    ✅   | [📖 Guía](./docs/tools/PaletteExtractor.md) |
 | 🔗 Image to Base64               |    ✅   | - |
-| 📐 SVG to React                  |    ✅   | - |
+| [✒️ Image to SVG Converter](./docs/tools/ImageToSvg.md)         |    ✅   | [📖 Guía](./docs/tools/ImageToSvg.md) |
 | ✒️ Image to SVG Converter        |    ✅   | - |
 | 🧩 Placeholder Generator         |   🚧   | - |
 | ✂️ Background Remover (Local AI) |   🚧   | - |
