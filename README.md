@@ -43,15 +43,16 @@ Whenever feasible, files never leave your computer. Everything runs directly ins
 
 # 🛠 Available Tools
 
-| Tool                             | Status |
-| -------------------------------- | :----: |
-| 🖼️ WebP Converter               |    ✅   |
-| 📏 Image Resizer                 |    ✅   |
-| 🎨 Palette Extractor             |    ✅   |
-| 🔗 Image to Base64               |    ✅   |
-| 📐 SVG to React                  |    ✅   |
-| 🧩 Placeholder Generator         |   🚧   |
-| ✂️ Background Remover (Local AI) |   🚧   |
+| Tool                             | Status | Guide |
+| -------------------------------- | :----: | :---: |
+| [🖼️ WebP Converter](./docs/tools/WebPConverter.md)               |    ✅   | [📖 Guía](./docs/tools/WebPConverter.md) |
+| 📏 Image Resizer                 |    ✅   | - |
+| 🎨 Palette Extractor             |    ✅   | - |
+| 🔗 Image to Base64               |    ✅   | - |
+| 📐 SVG to React                  |    ✅   | - |
+| ✒️ Image to SVG Converter        |    ✅   | - |
+| 🧩 Placeholder Generator         |   🚧   | - |
+| ✂️ Background Remover (Local AI) |   🚧   | - |
 
 ---
 
