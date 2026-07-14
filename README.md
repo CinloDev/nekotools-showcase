@@ -19,7 +19,7 @@
 
 ## 🌐 Live Demo
 
-**https://tools.cinlodev.com**
+**https://nekotools.cinlodev.com**
 
 ---
 
@@ -126,41 +126,13 @@ Project documentation can be found inside the **docs** directory.
 
 ---
 
-# 🚀 Getting Started
-
-Clone the repository:
-
-```bash
-git clone https://github.com/CinloDev/neko-tools.git
-```
-
-Install dependencies:
-
-```bash
-pnpm install
-```
-
-Run the development server:
-
-```bash
-pnpm dev
-```
-
-Create a production build:
-
-```bash
-pnpm build
-```
-
----
-
 # 🗺️ Roadmap
 
 Current priorities:
 
 * 🧩 Placeholder Generator
 * ✂️ Background Remover (Browser AI)
-* 🎭 Favicon Generator
+* 🌟 Favicon & PWA Generator
 * 🖼️ Open Graph Image Generator
 * 📝 JSON Formatter
 * 🔐 JWT Decoder
@@ -200,7 +172,8 @@ Frontend Developer focused on building high-quality SaaS products, developer too
 
 # 📄 License
 
-This project is licensed under the MIT License.
+Documentation and showcase assets are licensed under MIT.
+The NekoTools application source code remains private.
 
 ---
 
