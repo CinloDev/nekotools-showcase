@@ -50,7 +50,7 @@ Whenever feasible, files never leave your computer. Everything runs directly ins
 | [🎨 Palette Extractor](./docs/tools/PaletteExtractor.md)           |    ✅   | [📖 Guía](./docs/tools/PaletteExtractor.md) |
 | [🔗 Image to Base64](./docs/tools/ImageToBase64.md)                 |    ✅   | [📖 Guía](./docs/tools/ImageToBase64.md) |
 | [✒️ Image to SVG Converter](./docs/tools/ImageToSvg.md)         |    ✅   | [📖 Guía](./docs/tools/ImageToSvg.md) |
-| ✒️ Image to SVG Converter        |    ✅   | - |
+| [📐 SVG to React Code](./docs/tools/SVGToReact.md)                 |    ✅   | [📖 Guía](./docs/tools/SVGToReact.md) |
 | 🧩 Placeholder Generator         |   🚧   | - |
 | ✂️ Background Remover (Local AI) |   🚧   | - |
 
