@@ -51,7 +51,7 @@ Whenever feasible, files never leave your computer. Everything runs directly ins
 | [🔗 Image to Base64](./docs/tools/ImageToBase64.md)                 |    ✅   | [📖 Guía](./docs/tools/ImageToBase64.md) |
 | [✒️ Image to SVG Converter](./docs/tools/ImageToSvg.md)         |    ✅   | [📖 Guía](./docs/tools/ImageToSvg.md) |
 | [📐 SVG to React Code](./docs/tools/SVGToReact.md)                 |    ✅   | [📖 Guía](./docs/tools/SVGToReact.md) |
-| 🧩 Placeholder Generator         |   🚧   | - |
+| [🧩 Placeholder Generator](./docs/tools/PlaceholderGenerator.md)         |    ✅   | [📖 Guía](./docs/tools/PlaceholderGenerator.md) |
 | ✂️ Background Remover (Local AI) |   🚧   | - |
 
 ---
